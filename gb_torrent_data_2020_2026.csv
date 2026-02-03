@@ -1,0 +1,321 @@
+﻿event_id,date,year,month,district,region,is_baltistan,rainfall_mm,peak_discharge_cms,severity,flood_type,risk_level,houses_affected,infrastructure_damage_count,casualties,injuries,economic_loss_million_pkr,roads_blocked,bridges_damaged,crops_damaged_hectares,livestock_loss,evacuations,relief_camps
+GB-2020-01-000,2020-01-11,2020,1,Skardu,Baltistan,True,18.02,546.08,Minor,"Flash Floods, GLOF",Very High,6,0,0,2,4.31,0,0,11,1,2,0
+GB-2020-01-001,2020-01-15,2020,1,Astore,Gilgit,False,79.79,1180.68,Moderate,Flash Floods,Medium,43,4,3,3,45.31,0,1,12,9,9,1
+GB-2020-01-003,2020-01-19,2020,1,Hunza,Gilgit,False,96.51,1289.86,Moderate,"GLOF, Flash Floods",Very High,46,7,4,6,52.4,3,1,7,8,14,1
+GB-2020-01-002,2020-01-21,2020,1,Ghanche,Baltistan,True,75.38,1296.92,Moderate,Flash Floods,High,52,3,1,1,40.45,6,0,9,8,12,1
+GB-2020-02-000,2020-02-01,2020,2,Ghanche,Baltistan,True,148.93,2837.34,Severe,Flash Floods,High,151,26,1,12,134.48,11,7,64,20,49,1
+GB-2020-02-001,2020-02-07,2020,2,Ghizer,Gilgit,False,113.38,1977.79,Severe,Flash Floods,High,152,21,5,18,123.71,14,2,42,23,40,1
+GB-2020-03-001,2020-03-15,2020,3,Ghanche,Baltistan,True,114.46,1678.35,Severe,Flash Floods,High,159,28,6,19,185.03,15,2,49,17,27,2
+GB-2020-03-003,2020-03-19,2020,3,Diamer,Gilgit,False,46.24,1683.03,Minor,"Riverine, Flash Floods",High,5,1,0,2,5.38,0,0,11,3,1,0
+GB-2020-03-002,2020-03-21,2020,3,Hunza,Gilgit,False,237.06,2696.96,Severe,"GLOF, Flash Floods",Very High,138,28,3,14,158.28,13,3,62,16,44,3
+GB-2020-03-000,2020-03-23,2020,3,Hunza,Gilgit,False,138.61,755.74,Severe,"GLOF, Flash Floods",Very High,169,23,4,18,186.74,13,7,46,17,48,2
+GB-2020-03-004,2020-03-27,2020,3,Diamer,Gilgit,False,83.55,1887.12,Moderate,"Riverine, Flash Floods",High,51,9,1,6,47.25,5,3,7,6,16,1
+GB-2020-06-003,2020-06-01,2020,6,Hunza,Gilgit,False,118.21,1672.86,Severe,"GLOF, Flash Floods",Very High,146,23,1,5,101.09,14,6,44,16,49,1
+GB-2020-06-007,2020-06-02,2020,6,Kharmang,Baltistan,True,32.89,285.82,Minor,Flash Floods,Medium-High,9,1,0,1,7.73,0,0,15,1,6,0
+GB-2020-06-008,2020-06-05,2020,6,Shigar,Baltistan,True,36.77,519.94,Minor,"Flash Floods, GLOF",High,9,1,0,2,6.12,0,0,3,3,4,0
+GB-2020-06-005,2020-06-11,2020,6,Skardu,Baltistan,True,120.7,1065.23,Severe,"Flash Floods, GLOF",Very High,137,32,2,5,131.25,14,5,53,11,47,1
+GB-2020-06-000,2020-06-21,2020,6,Diamer,Gilgit,False,93.64,1819.68,Moderate,"Riverine, Flash Floods",High,57,6,0,3,44.73,3,0,9,7,24,1
+GB-2020-06-004,2020-06-22,2020,6,Hunza,Gilgit,False,98.68,2409.38,Moderate,"GLOF, Flash Floods",Very High,59,7,0,1,41.18,6,2,17,7,14,0
+GB-2020-06-006,2020-06-22,2020,6,Hunza,Gilgit,False,166.5,1489.21,Severe,"GLOF, Flash Floods",Very High,151,15,4,20,126.09,7,3,50,23,47,1
+GB-2020-06-002,2020-06-26,2020,6,Ghanche,Baltistan,True,48.89,452.9,Minor,Flash Floods,High,8,0,0,4,5.85,0,0,12,8,0,0
+GB-2020-06-001,2020-06-26,2020,6,Hunza,Gilgit,False,177.96,2980.2,Severe,"GLOF, Flash Floods",Very High,163,28,2,15,170.37,14,5,44,18,34,0
+GB-2020-07-005,2020-07-14,2020,7,Skardu,Baltistan,True,180.51,3279.83,Severe,"Flash Floods, GLOF",Very High,146,27,4,15,151.38,9,4,45,16,44,3
+GB-2020-07-009,2020-07-17,2020,7,Astore,Gilgit,False,148.56,2358.64,Severe,Flash Floods,Medium,151,25,5,14,140.65,15,5,44,23,55,5
+GB-2020-07-008,2020-07-18,2020,7,Skardu,Baltistan,True,59.51,1712.47,Moderate,"Flash Floods, GLOF",Very High,50,9,0,2,52.11,6,3,11,7,11,2
+GB-2020-07-000,2020-07-22,2020,7,Ghizer,Gilgit,False,79.23,1652.24,Moderate,Flash Floods,High,43,13,1,6,62.52,12,3,10,3,14,4
+GB-2020-07-006,2020-07-22,2020,7,Hunza,Gilgit,False,68.14,1275.25,Moderate,"GLOF, Flash Floods",Very High,52,10,0,3,48.72,3,3,13,3,22,2
+GB-2020-07-001,2020-07-23,2020,7,Ghanche,Baltistan,True,86.32,1332.89,Moderate,Flash Floods,High,42,9,1,8,54.21,5,1,8,6,12,1
+GB-2020-07-003,2020-07-23,2020,7,Ghanche,Baltistan,True,49.16,1200.94,Minor,Flash Floods,High,8,1,0,1,6.7,0,0,7,1,3,0
+GB-2020-07-004,2020-07-24,2020,7,Skardu,Baltistan,True,158.98,2461.15,Severe,"Flash Floods, GLOF",Very High,163,27,2,8,119.89,12,7,53,21,55,4
+GB-2020-07-007,2020-07-24,2020,7,Diamer,Gilgit,False,88.6,2099.04,Moderate,"Riverine, Flash Floods",High,56,8,2,3,46.45,4,3,11,9,16,3
+GB-2020-07-002,2020-07-24,2020,7,Hunza,Gilgit,False,206.66,1849.76,Severe,"GLOF, Flash Floods",Very High,142,20,5,13,134.15,11,6,55,20,42,0
+GB-2020-08-001,2020-08-01,2020,8,Diamer,Gilgit,False,36.21,1521.07,Minor,"Riverine, Flash Floods",High,11,1,0,3,6.72,0,0,16,7,2,0
+GB-2020-08-000,2020-08-04,2020,8,Astore,Gilgit,False,75.89,1585.57,Moderate,Flash Floods,Medium,42,6,2,0,39.34,6,0,13,7,10,0
+GB-2020-08-002,2020-08-15,2020,8,Ghizer,Gilgit,False,198.87,1423.45,Severe,Flash Floods,High,146,32,1,17,168.54,15,6,62,24,34,2
+GB-2020-08-005,2020-08-19,2020,8,Hunza,Gilgit,False,39.44,705.03,Minor,"GLOF, Flash Floods",Very High,13,3,0,3,14.37,0,0,7,7,8,0
+GB-2020-08-004,2020-08-20,2020,8,Diamer,Gilgit,False,125.01,1287.58,Severe,"Riverine, Flash Floods",High,175,25,2,11,170.19,24,11,51,24,34,3
+GB-2020-08-003,2020-08-22,2020,8,Hunza,Gilgit,False,25.2,921.87,Minor,"GLOF, Flash Floods",Very High,13,1,0,0,8.13,0,0,8,4,3,0
+GB-2020-09-003,2020-09-01,2020,9,Diamer,Gilgit,False,34.91,399.72,Minor,"Riverine, Flash Floods",High,7,3,0,3,8.43,1,0,11,5,1,0
+GB-2020-09-008,2020-09-04,2020,9,Kharmang,Baltistan,True,17.92,761.18,Minor,Flash Floods,Medium-High,13,0,0,2,5.91,0,0,13,5,0,0
+GB-2020-09-005,2020-09-05,2020,9,Hunza,Gilgit,False,136.93,1319.81,Severe,"GLOF, Flash Floods",Very High,165,17,3,14,135.52,12,4,39,21,37,2
+GB-2020-09-001,2020-09-08,2020,9,Hunza,Gilgit,False,299.05,4677.57,Severe,"GLOF, Flash Floods",Very High,136,27,5,12,152.48,24,5,70,30,49,3
+GB-2020-09-006,2020-09-09,2020,9,Ghanche,Baltistan,True,26.69,1404.95,Minor,Flash Floods,High,8,2,0,1,7.9,2,0,11,7,3,0
+GB-2020-09-002,2020-09-13,2020,9,Skardu,Baltistan,True,50.09,1203.27,Moderate,"Flash Floods, GLOF",Very High,43,7,0,11,33.51,5,1,11,8,11,2
+GB-2020-09-007,2020-09-19,2020,9,Skardu,Baltistan,True,95.43,1908.09,Moderate,"Flash Floods, GLOF",Very High,58,7,0,4,40.76,8,1,13,6,13,4
+GB-2020-09-000,2020-09-23,2020,9,Astore,Gilgit,False,21.71,676.36,Minor,Flash Floods,Medium,9,3,0,0,11.14,1,1,11,5,2,0
+GB-2020-09-009,2020-09-23,2020,9,Diamer,Gilgit,False,47.02,1548.73,Minor,"Riverine, Flash Floods",High,6,1,0,1,5.32,2,0,11,4,1,0
+GB-2020-09-004,2020-09-28,2020,9,Diamer,Gilgit,False,59.77,1264.58,Moderate,"Riverine, Flash Floods",High,47,9,1,6,44.34,5,2,10,7,12,4
+GB-2020-10-002,2020-10-05,2020,10,Skardu,Baltistan,True,245.71,3179.98,Severe,"Flash Floods, GLOF",Very High,127,16,5,12,102.72,11,1,52,18,36,3
+GB-2020-10-001,2020-10-24,2020,10,Skardu,Baltistan,True,224.5,1514.32,Severe,"Flash Floods, GLOF",Very High,148,31,7,15,192.17,19,3,37,18,41,1
+GB-2020-10-000,2020-10-27,2020,10,Hunza,Gilgit,False,269.23,2701.89,Severe,"GLOF, Flash Floods",Very High,153,20,3,7,126.73,9,3,59,22,48,2
+GB-2020-12-001,2020-12-05,2020,12,Ghanche,Baltistan,True,42.58,1151.73,Minor,Flash Floods,High,7,3,0,3,10.5,3,2,10,4,1,0
+GB-2020-12-002,2020-12-07,2020,12,Skardu,Baltistan,True,228.89,2149.68,Severe,"Flash Floods, GLOF",Very High,131,25,1,16,130.49,17,4,46,23,40,1
+GB-2020-12-003,2020-12-18,2020,12,Hunza,Gilgit,False,56.48,991.86,Moderate,"GLOF, Flash Floods",Very High,57,11,2,7,55.73,7,3,3,4,14,0
+GB-2020-12-000,2020-12-21,2020,12,Diamer,Gilgit,False,45.87,1575.16,Minor,"Riverine, Flash Floods",High,13,1,0,2,7.88,0,0,13,8,5,0
+GB-2021-01-000,2021-01-10,2021,1,Shigar,Baltistan,True,103.49,1041.8,Severe,"Flash Floods, GLOF",High,148,15,0,10,103.19,7,4,53,21,41,1
+GB-2021-02-000,2021-02-02,2021,2,Hunza,Gilgit,False,202.28,217.82,Severe,"GLOF, Flash Floods",Very High,161,27,3,11,174.92,16,6,47,21,54,0
+GB-2021-02-001,2021-02-20,2021,2,Ghizer,Gilgit,False,42.42,1113.28,Minor,Flash Floods,High,13,0,0,3,6.23,0,0,11,7,5,0
+GB-2021-03-000,2021-03-01,2021,3,Astore,Gilgit,False,25.64,783.53,Minor,Flash Floods,Medium,9,5,0,3,13.07,5,1,7,7,2,0
+GB-2021-03-003,2021-03-08,2021,3,Skardu,Baltistan,True,117.4,1801.56,Severe,"Flash Floods, GLOF",Very High,142,22,2,13,117.64,18,3,46,17,47,5
+GB-2021-03-001,2021-03-12,2021,3,Shigar,Baltistan,True,27.13,615.53,Minor,"Flash Floods, GLOF",High,5,1,0,4,6.48,0,1,6,3,1,0
+GB-2021-03-004,2021-03-17,2021,3,Skardu,Baltistan,True,57.6,347.71,Moderate,"Flash Floods, GLOF",Very High,45,7,1,3,49.37,3,0,17,7,11,2
+GB-2021-03-002,2021-03-23,2021,3,Shigar,Baltistan,True,46.67,736.92,Minor,"Flash Floods, GLOF",High,14,1,0,4,11.45,0,1,14,3,4,0
+GB-2021-04-000,2021-04-06,2021,4,Skardu,Baltistan,True,75.48,216.9,Moderate,"Flash Floods, GLOF",Very High,43,3,0,2,26.29,3,1,5,5,10,3
+GB-2021-05-002,2021-05-01,2021,5,Astore,Gilgit,False,33.68,976.72,Minor,Flash Floods,Medium,6,2,0,1,6.27,1,1,9,5,0,0
+GB-2021-05-001,2021-05-03,2021,5,Hunza,Gilgit,False,21.0,513.14,Minor,"GLOF, Flash Floods",Very High,11,3,0,1,10.11,2,0,11,3,3,0
+GB-2021-05-003,2021-05-22,2021,5,Astore,Gilgit,False,16.18,699.62,Minor,Flash Floods,Medium,10,3,0,1,9.3,1,1,8,6,3,0
+GB-2021-05-000,2021-05-27,2021,5,Skardu,Baltistan,True,66.58,1434.3,Moderate,"Flash Floods, GLOF",Very High,53,10,2,2,49.61,9,3,10,4,16,1
+GB-2021-06-006,2021-06-01,2021,6,Ghanche,Baltistan,True,30.19,1036.4,Minor,Flash Floods,High,11,4,0,3,12.71,4,1,12,7,5,0
+GB-2021-06-001,2021-06-03,2021,6,Ghanche,Baltistan,True,82.72,-233.8,Moderate,Flash Floods,High,54,8,3,3,50.49,7,0,9,2,16,0
+GB-2021-06-007,2021-06-08,2021,6,Astore,Gilgit,False,15.2,1063.53,Minor,Flash Floods,Medium,12,2,0,3,9.36,0,0,9,5,4,0
+GB-2021-06-002,2021-06-10,2021,6,Hunza,Gilgit,False,80.71,461.23,Moderate,"GLOF, Flash Floods",Very High,41,7,2,2,43.59,7,1,7,5,16,1
+GB-2021-06-004,2021-06-12,2021,6,Shigar,Baltistan,True,10.0,592.74,Minor,"Flash Floods, GLOF",High,14,0,0,2,8.69,0,0,7,8,5,0
+GB-2021-06-003,2021-06-17,2021,6,Skardu,Baltistan,True,54.55,1051.89,Moderate,"Flash Floods, GLOF",Very High,45,2,0,4,31.5,1,1,15,6,16,5
+GB-2021-06-000,2021-06-21,2021,6,Kharmang,Baltistan,True,40.29,1491.22,Minor,Flash Floods,Medium-High,10,3,0,2,11.56,2,2,10,6,2,0
+GB-2021-06-005,2021-06-22,2021,6,Ghizer,Gilgit,False,62.46,1057.97,Moderate,Flash Floods,High,45,5,1,1,36.49,4,2,12,5,8,0
+GB-2021-07-001,2021-07-12,2021,7,Hunza,Gilgit,False,47.61,1108.47,Minor,"GLOF, Flash Floods",Very High,8,2,0,2,9.47,3,1,11,4,2,0
+GB-2021-07-003,2021-07-13,2021,7,Ghanche,Baltistan,True,88.51,-32.34,Moderate,Flash Floods,High,44,2,2,8,36.42,4,0,12,6,10,3
+GB-2021-07-000,2021-07-16,2021,7,Shigar,Baltistan,True,54.99,1127.55,Moderate,"Flash Floods, GLOF",High,48,9,0,1,47.87,10,5,9,3,14,1
+GB-2021-07-002,2021-07-17,2021,7,Skardu,Baltistan,True,128.14,1165.08,Severe,"Flash Floods, GLOF",Very High,139,28,3,14,164.72,16,6,47,26,47,3
+GB-2021-08-013,2021-08-01,2021,8,Diamer,Gilgit,False,129.23,3000.36,Severe,"Riverine, Flash Floods",High,137,24,2,18,142.43,24,4,62,21,27,1
+GB-2021-08-002,2021-08-02,2021,8,Ghanche,Baltistan,True,38.39,441.93,Minor,Flash Floods,High,12,4,0,2,14.31,2,2,11,5,4,0
+GB-2021-08-005,2021-08-02,2021,8,Skardu,Baltistan,True,85.31,965.68,Moderate,"Flash Floods, GLOF",Very High,55,13,1,7,63.76,8,1,8,3,20,2
+GB-2021-08-008,2021-08-04,2021,8,Skardu,Baltistan,True,73.41,1067.52,Moderate,"Flash Floods, GLOF",Very High,46,12,0,3,51.67,14,4,12,4,14,3
+GB-2021-08-006,2021-08-05,2021,8,Skardu,Baltistan,True,178.55,3161.06,Severe,"Flash Floods, GLOF",Very High,163,30,4,19,187.89,22,5,58,20,59,2
+GB-2021-08-011,2021-08-05,2021,8,Ghanche,Baltistan,True,43.26,1115.93,Minor,Flash Floods,High,10,4,0,5,11.99,2,4,6,6,3,0
+GB-2021-08-000,2021-08-06,2021,8,Ghanche,Baltistan,True,28.23,924.43,Minor,Flash Floods,High,12,2,0,3,12.13,0,1,14,7,4,0
+GB-2021-08-004,2021-08-10,2021,8,Shigar,Baltistan,True,30.51,1029.74,Minor,"Flash Floods, GLOF",High,12,3,0,4,15.82,1,1,7,3,1,0
+GB-2021-08-012,2021-08-11,2021,8,Shigar,Baltistan,True,16.02,256.81,Minor,"Flash Floods, GLOF",High,9,3,0,3,10.81,3,0,14,9,2,0
+GB-2021-08-010,2021-08-13,2021,8,Hunza,Gilgit,False,47.27,1558.49,Minor,"GLOF, Flash Floods",Very High,11,5,0,1,15.45,5,1,10,4,7,0
+GB-2021-08-007,2021-08-15,2021,8,Ghanche,Baltistan,True,27.35,938.9,Minor,Flash Floods,High,12,0,0,1,6.85,0,0,12,2,3,0
+GB-2021-08-003,2021-08-20,2021,8,Kharmang,Baltistan,True,23.85,658.3,Minor,Flash Floods,Medium-High,11,2,0,3,10.86,1,0,5,8,4,0
+GB-2021-08-009,2021-08-25,2021,8,Hunza,Gilgit,False,72.2,1681.81,Moderate,"GLOF, Flash Floods",Very High,36,8,1,5,35.93,2,3,13,8,13,4
+GB-2021-08-001,2021-08-25,2021,8,Kharmang,Baltistan,True,24.85,490.16,Minor,Flash Floods,Medium-High,8,2,0,4,9.84,0,0,8,5,3,0
+GB-2021-09-010,2021-09-03,2021,9,Astore,Gilgit,False,8.14,263.57,Minor,Flash Floods,Medium,8,0,0,4,4.43,0,0,11,5,1,0
+GB-2021-09-003,2021-09-03,2021,9,Shigar,Baltistan,True,129.9,1167.92,Severe,"Flash Floods, GLOF",High,153,21,5,13,133.57,13,8,56,21,46,3
+GB-2021-09-005,2021-09-04,2021,9,Kharmang,Baltistan,True,60.02,1557.23,Moderate,Flash Floods,Medium-High,46,7,1,3,50.93,5,4,3,7,16,1
+GB-2021-09-009,2021-09-07,2021,9,Hunza,Gilgit,False,269.44,5020.83,Severe,"GLOF, Flash Floods",Very High,146,25,3,19,163.51,14,7,32,32,48,5
+GB-2021-09-002,2021-09-09,2021,9,Hunza,Gilgit,False,58.44,610.75,Moderate,"GLOF, Flash Floods",Very High,53,5,1,6,46.74,7,1,12,5,22,2
+GB-2021-09-011,2021-09-11,2021,9,Skardu,Baltistan,True,133.35,1570.91,Severe,"Flash Floods, GLOF",Very High,172,14,2,16,143.61,8,3,48,24,45,1
+GB-2021-09-000,2021-09-15,2021,9,Kharmang,Baltistan,True,87.82,2154.1,Moderate,Flash Floods,Medium-High,64,9,0,3,49.65,4,0,7,1,24,1
+GB-2021-09-008,2021-09-17,2021,9,Astore,Gilgit,False,99.68,639.88,Moderate,Flash Floods,Medium,64,10,2,4,73.29,7,1,15,4,32,2
+GB-2021-09-004,2021-09-21,2021,9,Ghizer,Gilgit,False,59.86,919.53,Moderate,Flash Floods,High,44,11,1,6,52.19,10,2,8,4,11,2
+GB-2021-09-007,2021-09-24,2021,9,Shigar,Baltistan,True,40.39,851.06,Minor,"Flash Floods, GLOF",High,10,2,0,3,9.31,1,0,7,7,3,0
+GB-2021-09-006,2021-09-25,2021,9,Ghanche,Baltistan,True,63.98,1256.07,Moderate,Flash Floods,High,42,9,0,2,45.51,6,1,4,5,13,2
+GB-2021-09-001,2021-09-26,2021,9,Astore,Gilgit,False,26.37,865.18,Minor,Flash Floods,Medium,8,1,0,2,7.4,0,0,10,4,2,0
+GB-2021-10-000,2021-10-16,2021,10,Skardu,Baltistan,True,237.55,1435.73,Severe,"Flash Floods, GLOF",Very High,166,28,3,15,148.77,16,7,46,14,53,1
+GB-2021-10-001,2021-10-18,2021,10,Diamer,Gilgit,False,25.21,652.63,Minor,"Riverine, Flash Floods",High,12,2,0,4,11.91,2,0,11,8,1,0
+GB-2021-11-000,2021-11-01,2021,11,Kharmang,Baltistan,True,67.11,1469.65,Moderate,Flash Floods,Medium-High,57,5,0,3,31.54,2,2,12,3,20,2
+GB-2021-12-000,2021-12-10,2021,12,Skardu,Baltistan,True,77.6,1111.76,Moderate,"Flash Floods, GLOF",Very High,48,8,0,5,45.06,9,1,12,3,16,1
+GB-2022-02-001,2022-02-03,2022,2,Kharmang,Baltistan,True,23.64,1035.24,Minor,Flash Floods,Medium-High,8,3,0,1,10.62,4,1,7,5,2,0
+GB-2022-02-000,2022-02-08,2022,2,Hunza,Gilgit,False,40.12,518.06,Minor,"GLOF, Flash Floods",Very High,15,2,0,0,12.95,4,0,7,2,4,0
+GB-2022-02-002,2022-02-09,2022,2,Diamer,Gilgit,False,62.63,719.02,Moderate,"Riverine, Flash Floods",High,51,8,2,6,62.07,1,0,8,6,14,2
+GB-2022-03-001,2022-03-04,2022,3,Ghanche,Baltistan,True,30.83,833.62,Minor,Flash Floods,High,9,1,0,2,8.35,1,1,10,7,1,0
+GB-2022-03-002,2022-03-05,2022,3,Hunza,Gilgit,False,123.84,1398.17,Severe,"GLOF, Flash Floods",Very High,154,32,2,16,131.9,13,7,50,19,55,1
+GB-2022-03-000,2022-03-15,2022,3,Hunza,Gilgit,False,115.18,1631.69,Severe,"GLOF, Flash Floods",Very High,154,23,2,11,123.35,14,4,52,16,43,0
+GB-2022-04-000,2022-04-05,2022,4,Shigar,Baltistan,True,145.52,2388.59,Severe,"Flash Floods, GLOF",High,151,27,2,11,117.16,15,5,37,21,46,0
+GB-2022-06-003,2022-06-12,2022,6,Ghanche,Baltistan,True,87.82,930.32,Moderate,Flash Floods,High,56,9,1,1,51.22,3,1,10,6,22,5
+GB-2022-06-000,2022-06-14,2022,6,Astore,Gilgit,False,9.59,131.29,Minor,Flash Floods,Medium,12,0,0,2,7.73,0,0,5,2,5,0
+GB-2022-06-001,2022-06-16,2022,6,Astore,Gilgit,False,35.38,1027.13,Minor,Flash Floods,Medium,12,1,0,0,6.97,1,0,4,7,4,0
+GB-2022-06-002,2022-06-28,2022,6,Ghizer,Gilgit,False,31.82,1275.34,Minor,Flash Floods,High,10,3,0,3,9.8,3,1,9,7,2,0
+GB-2022-07-005,2022-07-05,2022,7,Hunza,Gilgit,False,66.92,538.76,Moderate,"GLOF, Flash Floods",Very High,44,8,0,5,32.16,3,0,9,6,16,4
+GB-2022-07-004,2022-07-14,2022,7,Hunza,Gilgit,False,59.66,1005.25,Moderate,"GLOF, Flash Floods",Very High,47,10,0,4,37.94,4,3,6,4,19,0
+GB-2022-07-003,2022-07-16,2022,7,Hunza,Gilgit,False,233.74,1409.75,Severe,"GLOF, Flash Floods",Very High,159,36,4,12,151.91,12,9,49,25,51,3
+GB-2022-07-001,2022-07-22,2022,7,Hunza,Gilgit,False,30.58,671.97,Minor,"GLOF, Flash Floods",Very High,16,5,0,3,18.93,4,1,7,8,2,0
+GB-2022-07-000,2022-07-26,2022,7,Diamer,Gilgit,False,80.82,884.11,Moderate,"Riverine, Flash Floods",High,56,6,0,8,46.4,2,1,6,2,16,1
+GB-2022-07-002,2022-07-28,2022,7,Ghanche,Baltistan,True,42.45,1850.43,Minor,Flash Floods,High,8,0,0,2,4.91,0,0,7,2,0,0
+GB-2022-08-005,2022-08-03,2022,8,Hunza,Gilgit,False,83.94,1633.12,Moderate,"GLOF, Flash Floods",Very High,49,6,0,7,42.17,5,1,8,6,11,1
+GB-2022-08-001,2022-08-07,2022,8,Shigar,Baltistan,True,34.9,546.47,Minor,"Flash Floods, GLOF",High,8,2,0,1,7.67,2,0,6,3,3,0
+GB-2022-08-002,2022-08-13,2022,8,Skardu,Baltistan,True,92.48,2497.99,Moderate,"Flash Floods, GLOF",Very High,58,19,0,9,68.9,11,3,9,4,22,2
+GB-2022-08-004,2022-08-17,2022,8,Kharmang,Baltistan,True,23.07,219.2,Minor,Flash Floods,Medium-High,8,5,0,1,15.7,1,0,9,5,2,0
+GB-2022-08-003,2022-08-18,2022,8,Skardu,Baltistan,True,116.24,2761.92,Severe,"Flash Floods, GLOF",Very High,167,25,3,18,181.73,18,3,44,28,47,2
+GB-2022-08-000,2022-08-19,2022,8,Hunza,Gilgit,False,98.74,823.18,Moderate,"GLOF, Flash Floods",Very High,43,9,2,6,56.65,2,1,12,3,17,0
+GB-2022-09-003,2022-09-02,2022,9,Shigar,Baltistan,True,142.46,667.53,Severe,"Flash Floods, GLOF",High,129,34,3,20,178.01,22,8,44,9,38,2
+GB-2022-09-000,2022-09-08,2022,9,Diamer,Gilgit,False,59.97,1205.54,Moderate,"Riverine, Flash Floods",High,46,8,0,5,34.37,4,1,8,9,12,5
+GB-2022-09-001,2022-09-19,2022,9,Skardu,Baltistan,True,82.69,2231.67,Moderate,"Flash Floods, GLOF",Very High,50,5,0,3,37.0,1,0,14,3,14,3
+GB-2022-09-002,2022-09-29,2022,9,Ghanche,Baltistan,True,44.62,1102.48,Minor,Flash Floods,High,14,2,0,3,10.78,0,0,9,3,3,0
+GB-2022-09-004,2022-09-29,2022,9,Ghanche,Baltistan,True,36.21,1204.94,Minor,Flash Floods,High,8,2,0,1,9.88,0,0,10,3,3,0
+GB-2022-10-000,2022-10-22,2022,10,Hunza,Gilgit,False,41.09,513.96,Minor,"GLOF, Flash Floods",Very High,9,2,0,2,10.03,1,0,12,3,2,0
+GB-2022-11-000,2022-11-06,2022,11,Diamer,Gilgit,False,85.23,474.08,Moderate,"Riverine, Flash Floods",High,45,11,1,7,56.28,5,3,11,4,7,1
+GB-2022-11-001,2022-11-09,2022,11,Hunza,Gilgit,False,384.03,3745.04,Severe,"GLOF, Flash Floods",Very High,131,22,0,10,117.27,12,1,49,20,36,4
+GB-2022-12-001,2022-12-19,2022,12,Diamer,Gilgit,False,132.24,1096.07,Severe,"Riverine, Flash Floods",High,138,21,1,15,100.24,15,6,45,23,43,3
+GB-2022-12-000,2022-12-19,2022,12,Ghanche,Baltistan,True,58.99,816.85,Moderate,Flash Floods,High,38,8,2,5,37.46,7,1,10,8,10,3
+GB-2023-01-000,2023-01-16,2023,1,Ghanche,Baltistan,True,49.77,788.73,Minor,Flash Floods,High,8,2,0,2,8.41,2,1,11,4,1,0
+GB-2023-01-001,2023-01-18,2023,1,Shigar,Baltistan,True,71.96,1135.94,Moderate,"Flash Floods, GLOF",High,54,5,1,2,42.76,3,1,12,4,18,3
+GB-2023-02-000,2023-02-22,2023,2,Kharmang,Baltistan,True,58.1,826.31,Moderate,Flash Floods,Medium-High,45,12,2,3,57.22,6,3,13,6,15,1
+GB-2023-03-000,2023-03-18,2023,3,Ghizer,Gilgit,False,44.85,873.34,Minor,Flash Floods,High,11,2,0,2,11.08,1,0,7,7,4,0
+GB-2023-04-001,2023-04-01,2023,4,Ghizer,Gilgit,False,54.42,1199.1,Moderate,Flash Floods,High,59,8,1,10,51.38,4,2,12,7,18,2
+GB-2023-04-000,2023-04-07,2023,4,Ghanche,Baltistan,True,138.55,2881.92,Severe,Flash Floods,High,134,24,4,14,163.06,16,4,47,22,36,0
+GB-2023-04-003,2023-04-09,2023,4,Ghizer,Gilgit,False,21.59,871.73,Minor,Flash Floods,High,10,1,0,1,8.23,0,0,10,6,1,0
+GB-2023-04-002,2023-04-26,2023,4,Shigar,Baltistan,True,98.7,1792.74,Moderate,"Flash Floods, GLOF",High,58,7,0,5,51.83,3,3,9,5,24,1
+GB-2023-06-001,2023-06-18,2023,6,Hunza,Gilgit,False,43.67,901.25,Minor,"GLOF, Flash Floods",Very High,6,2,0,0,7.86,0,0,12,5,2,0
+GB-2023-06-000,2023-06-26,2023,6,Skardu,Baltistan,True,196.0,2351.19,Severe,"Flash Floods, GLOF",Very High,152,28,5,14,156.7,16,7,45,22,40,0
+GB-2023-06-002,2023-06-26,2023,6,Shigar,Baltistan,True,32.31,750.18,Minor,"Flash Floods, GLOF",High,11,2,0,1,8.06,0,0,16,7,5,0
+GB-2023-06-003,2023-06-26,2023,6,Shigar,Baltistan,True,27.55,1034.87,Minor,"Flash Floods, GLOF",High,15,1,0,2,9.47,0,0,7,2,7,0
+GB-2023-07-003,2023-07-02,2023,7,Ghizer,Gilgit,False,32.91,1048.86,Minor,Flash Floods,High,8,2,0,1,8.77,2,0,16,7,3,0
+GB-2023-07-000,2023-07-05,2023,7,Diamer,Gilgit,False,83.1,1120.61,Moderate,"Riverine, Flash Floods",High,54,13,0,7,46.93,6,4,12,5,19,3
+GB-2023-07-004,2023-07-08,2023,7,Hunza,Gilgit,False,58.69,1215.09,Moderate,"GLOF, Flash Floods",Very High,53,9,1,8,49.7,8,1,13,4,11,1
+GB-2023-07-001,2023-07-13,2023,7,Ghanche,Baltistan,True,20.77,577.39,Minor,Flash Floods,High,11,2,0,0,10.27,0,0,11,1,4,0
+GB-2023-07-006,2023-07-17,2023,7,Ghanche,Baltistan,True,18.03,711.4,Minor,Flash Floods,High,6,3,0,0,10.49,2,1,7,7,2,0
+GB-2023-07-007,2023-07-20,2023,7,Ghanche,Baltistan,True,47.52,631.16,Minor,Flash Floods,High,16,2,0,0,13.8,1,0,10,4,1,0
+GB-2023-07-005,2023-07-26,2023,7,Ghanche,Baltistan,True,39.49,811.89,Minor,Flash Floods,High,8,1,0,1,5.74,1,0,7,8,2,0
+GB-2023-07-002,2023-07-27,2023,7,Shigar,Baltistan,True,146.18,1581.92,Severe,"Flash Floods, GLOF",High,149,33,6,24,152.82,20,3,41,22,44,0
+GB-2023-08-004,2023-08-08,2023,8,Skardu,Baltistan,True,93.04,2237.22,Moderate,"Flash Floods, GLOF",Very High,36,4,0,9,31.03,0,1,11,1,16,2
+GB-2023-08-006,2023-08-11,2023,8,Ghanche,Baltistan,True,25.81,1035.21,Minor,Flash Floods,High,13,3,0,3,14.09,2,0,11,6,1,0
+GB-2023-08-005,2023-08-13,2023,8,Skardu,Baltistan,True,397.96,6219.08,Severe,"Flash Floods, GLOF",Very High,150,23,3,7,150.1,14,3,49,16,48,1
+GB-2023-08-000,2023-08-14,2023,8,Ghanche,Baltistan,True,20.32,636.06,Minor,Flash Floods,High,11,2,0,1,11.31,0,1,8,4,0,0
+GB-2023-08-001,2023-08-24,2023,8,Hunza,Gilgit,False,199.34,3863.73,Severe,"GLOF, Flash Floods",Very High,157,21,1,17,152.54,14,4,50,19,53,1
+GB-2023-08-002,2023-08-25,2023,8,Hunza,Gilgit,False,55.44,1572.45,Moderate,"GLOF, Flash Floods",Very High,48,4,0,2,32.62,2,0,9,5,10,0
+GB-2023-08-003,2023-08-25,2023,8,Skardu,Baltistan,True,32.06,773.56,Minor,"Flash Floods, GLOF",Very High,8,3,0,2,12.09,0,2,8,5,2,0
+GB-2023-09-007,2023-09-02,2023,9,Ghanche,Baltistan,True,120.72,1353.27,Severe,Flash Floods,High,146,22,5,16,148.16,18,3,50,19,47,3
+GB-2023-09-012,2023-09-06,2023,9,Hunza,Gilgit,False,215.66,1087.63,Severe,"GLOF, Flash Floods",Very High,142,27,3,13,125.46,16,5,56,24,39,3
+GB-2023-09-008,2023-09-10,2023,9,Ghanche,Baltistan,True,97.12,2191.66,Moderate,Flash Floods,High,47,11,0,6,43.35,5,1,10,5,10,5
+GB-2023-09-010,2023-09-10,2023,9,Ghanche,Baltistan,True,48.86,796.05,Minor,Flash Floods,High,10,5,0,3,14.74,3,0,10,3,4,0
+GB-2023-09-006,2023-09-12,2023,9,Skardu,Baltistan,True,382.25,5197.7,Severe,"Flash Floods, GLOF",Very High,147,27,4,14,169.55,16,7,46,16,39,0
+GB-2023-09-011,2023-09-17,2023,9,Shigar,Baltistan,True,113.98,2013.29,Severe,"Flash Floods, GLOF",High,150,25,6,7,133.5,25,6,54,21,49,3
+GB-2023-09-001,2023-09-18,2023,9,Skardu,Baltistan,True,255.3,2422.15,Severe,"Flash Floods, GLOF",Very High,150,29,1,16,135.87,20,5,49,21,34,2
+GB-2023-09-005,2023-09-25,2023,9,Diamer,Gilgit,False,85.8,1495.85,Moderate,"Riverine, Flash Floods",High,59,8,1,5,61.24,6,0,5,5,13,5
+GB-2023-09-009,2023-09-25,2023,9,Astore,Gilgit,False,23.37,833.09,Minor,Flash Floods,Medium,10,2,0,2,7.92,2,1,11,5,3,0
+GB-2023-09-004,2023-09-26,2023,9,Ghanche,Baltistan,True,50.05,915.89,Moderate,Flash Floods,High,49,8,1,2,50.91,5,1,11,6,8,2
+GB-2023-09-003,2023-09-26,2023,9,Skardu,Baltistan,True,32.41,1136.79,Minor,"Flash Floods, GLOF",Very High,11,2,0,1,8.2,3,0,12,7,2,0
+GB-2023-09-002,2023-09-27,2023,9,Ghizer,Gilgit,False,50.37,864.83,Moderate,Flash Floods,High,45,7,2,6,50.09,2,0,9,6,12,2
+GB-2023-09-000,2023-09-27,2023,9,Diamer,Gilgit,False,34.3,200.2,Minor,"Riverine, Flash Floods",High,14,1,0,2,9.65,1,0,14,7,2,0
+GB-2023-10-000,2023-10-03,2023,10,Hunza,Gilgit,False,246.55,2863.16,Severe,"GLOF, Flash Floods",Very High,160,18,7,13,173.56,5,6,60,22,43,3
+GB-2023-12-000,2023-12-02,2023,12,Diamer,Gilgit,False,13.78,632.33,Minor,"Riverine, Flash Floods",High,12,2,0,2,11.67,1,0,13,9,4,0
+GB-2024-01-000,2024-01-22,2024,1,Hunza,Gilgit,False,46.07,759.97,Minor,"GLOF, Flash Floods",Very High,9,0,0,3,5.02,0,0,10,5,3,0
+GB-2024-02-000,2024-02-11,2024,2,Ghizer,Gilgit,False,77.73,1597.38,Moderate,Flash Floods,High,47,1,0,4,26.75,1,0,9,6,9,2
+GB-2024-02-001,2024-02-12,2024,2,Hunza,Gilgit,False,145.57,744.81,Severe,"GLOF, Flash Floods",Very High,150,34,4,19,166.52,17,5,45,22,42,2
+GB-2024-02-002,2024-02-23,2024,2,Skardu,Baltistan,True,52.75,1106.93,Moderate,"Flash Floods, GLOF",Very High,50,9,2,3,45.86,4,1,11,1,12,3
+GB-2024-03-000,2024-03-04,2024,3,Kharmang,Baltistan,True,22.32,822.07,Minor,Flash Floods,Medium-High,13,2,0,1,10.71,0,2,10,0,7,0
+GB-2024-05-002,2024-05-10,2024,5,Hunza,Gilgit,False,17.89,827.99,Minor,"GLOF, Flash Floods",Very High,10,5,0,2,16.65,5,1,10,3,2,0
+GB-2024-05-000,2024-05-19,2024,5,Ghanche,Baltistan,True,43.66,1139.94,Minor,Flash Floods,High,13,2,0,3,12.36,0,1,8,5,4,0
+GB-2024-05-003,2024-05-22,2024,5,Shigar,Baltistan,True,13.58,151.74,Minor,"Flash Floods, GLOF",High,15,0,0,1,6.46,0,0,12,4,10,0
+GB-2024-05-001,2024-05-27,2024,5,Hunza,Gilgit,False,50.31,1294.17,Moderate,"GLOF, Flash Floods",Very High,62,9,3,4,58.75,5,1,11,6,24,2
+GB-2024-06-006,2024-06-01,2024,6,Diamer,Gilgit,False,58.68,80.84,Moderate,"Riverine, Flash Floods",High,51,7,0,7,34.3,3,1,17,6,19,1
+GB-2024-06-002,2024-06-07,2024,6,Ghanche,Baltistan,True,49.45,659.16,Minor,Flash Floods,High,11,1,0,2,8.59,0,0,10,3,1,0
+GB-2024-06-000,2024-06-11,2024,6,Ghanche,Baltistan,True,107.4,1148.2,Severe,Flash Floods,High,151,23,1,17,155.23,11,3,43,15,39,3
+GB-2024-06-009,2024-06-17,2024,6,Hunza,Gilgit,False,201.63,2588.09,Severe,"GLOF, Flash Floods",Very High,171,18,2,13,149.26,12,3,60,15,56,4
+GB-2024-06-008,2024-06-17,2024,6,Kharmang,Baltistan,True,18.19,823.44,Minor,Flash Floods,Medium-High,8,1,0,1,5.83,0,1,7,7,5,0
+GB-2024-06-010,2024-06-19,2024,6,Ghizer,Gilgit,False,143.17,2719.85,Severe,Flash Floods,High,166,29,6,15,174.27,11,6,52,22,54,3
+GB-2024-06-003,2024-06-23,2024,6,Ghizer,Gilgit,False,75.93,-401.08,Moderate,Flash Floods,High,52,5,1,4,44.16,3,1,12,7,21,0
+GB-2024-06-007,2024-06-23,2024,6,Ghizer,Gilgit,False,17.54,377.39,Minor,Flash Floods,High,14,1,0,3,9.55,0,1,11,6,4,0
+GB-2024-06-005,2024-06-25,2024,6,Kharmang,Baltistan,True,91.59,1814.62,Moderate,Flash Floods,Medium-High,59,3,1,10,38.5,4,0,20,6,14,3
+GB-2024-06-004,2024-06-26,2024,6,Kharmang,Baltistan,True,14.64,963.92,Minor,Flash Floods,Medium-High,12,2,0,2,11.04,3,0,7,7,2,0
+GB-2024-06-001,2024-06-27,2024,6,Skardu,Baltistan,True,92.16,763.0,Moderate,"Flash Floods, GLOF",Very High,58,8,0,4,50.01,4,1,14,4,15,1
+GB-2024-07-002,2024-07-08,2024,7,Diamer,Gilgit,False,88.2,1448.95,Moderate,"Riverine, Flash Floods",High,51,14,1,6,71.27,9,4,10,5,16,1
+GB-2024-07-001,2024-07-17,2024,7,Hunza,Gilgit,False,95.37,1882.92,Moderate,"GLOF, Flash Floods",Very High,50,2,2,3,43.67,1,0,8,3,12,3
+GB-2024-07-000,2024-07-19,2024,7,Shigar,Baltistan,True,33.9,208.68,Minor,"Flash Floods, GLOF",High,8,0,0,1,3.68,0,0,11,3,1,0
+GB-2024-08-010,2024-08-05,2024,8,Diamer,Gilgit,False,46.38,1175.09,Minor,"Riverine, Flash Floods",High,7,1,0,3,6.11,0,0,18,4,2,0
+GB-2024-08-006,2024-08-07,2024,8,Shigar,Baltistan,True,37.48,1267.71,Minor,"Flash Floods, GLOF",High,11,0,0,1,5.27,0,0,14,5,2,0
+GB-2024-08-001,2024-08-11,2024,8,Skardu,Baltistan,True,24.56,536.76,Minor,"Flash Floods, GLOF",Very High,9,1,0,4,7.17,1,0,9,4,5,0
+GB-2024-08-002,2024-08-17,2024,8,Diamer,Gilgit,False,147.69,1990.19,Severe,"Riverine, Flash Floods",High,148,31,4,12,130.5,23,5,44,14,43,1
+GB-2024-08-009,2024-08-17,2024,8,Astore,Gilgit,False,9.58,545.44,Minor,Flash Floods,Medium,12,6,0,1,16.56,1,1,11,5,3,0
+GB-2024-08-003,2024-08-19,2024,8,Skardu,Baltistan,True,205.4,1086.7,Severe,"Flash Floods, GLOF",Very High,132,17,3,14,112.11,12,6,42,23,34,3
+GB-2024-08-000,2024-08-22,2024,8,Shigar,Baltistan,True,261.61,1945.74,Severe,"Flash Floods, GLOF",High,157,32,1,15,158.96,24,1,46,24,47,1
+GB-2024-08-004,2024-08-23,2024,8,Skardu,Baltistan,True,186.45,2190.94,Severe,"Flash Floods, GLOF",Very High,150,34,3,17,159.1,24,7,45,19,35,1
+GB-2024-08-005,2024-08-25,2024,8,Kharmang,Baltistan,True,22.44,683.42,Minor,Flash Floods,Medium-High,13,1,0,3,9.03,0,0,8,4,2,0
+GB-2024-08-008,2024-08-25,2024,8,Astore,Gilgit,False,20.24,582.45,Minor,Flash Floods,Medium,7,4,0,5,15.11,0,0,9,6,4,0
+GB-2024-08-007,2024-08-27,2024,8,Kharmang,Baltistan,True,18.45,642.5,Minor,Flash Floods,Medium-High,11,1,0,3,8.18,0,1,13,3,4,0
+GB-2024-09-002,2024-09-01,2024,9,Hunza,Gilgit,False,58.65,814.42,Moderate,"GLOF, Flash Floods",Very High,57,12,0,2,47.58,13,1,5,7,11,1
+GB-2024-09-004,2024-09-03,2024,9,Ghanche,Baltistan,True,39.68,548.34,Minor,Flash Floods,High,8,0,0,4,5.14,0,0,17,4,2,0
+GB-2024-09-007,2024-09-08,2024,9,Skardu,Baltistan,True,25.56,780.2,Minor,"Flash Floods, GLOF",Very High,7,0,0,2,4.88,0,0,6,4,1,0
+GB-2024-09-005,2024-09-22,2024,9,Hunza,Gilgit,False,100.38,1927.95,Severe,"GLOF, Flash Floods",Very High,151,20,2,13,110.43,13,3,46,14,47,3
+GB-2024-09-000,2024-09-23,2024,9,Skardu,Baltistan,True,52.63,549.66,Moderate,"Flash Floods, GLOF",Very High,43,4,0,6,36.69,1,1,17,12,9,1
+GB-2024-09-001,2024-09-27,2024,9,Diamer,Gilgit,False,64.49,688.77,Moderate,"Riverine, Flash Floods",High,50,10,0,9,50.04,7,1,13,5,8,3
+GB-2024-09-006,2024-09-27,2024,9,Skardu,Baltistan,True,58.72,1178.97,Moderate,"Flash Floods, GLOF",Very High,55,9,4,8,62.71,3,0,12,5,15,0
+GB-2024-09-003,2024-09-29,2024,9,Diamer,Gilgit,False,88.88,1355.88,Moderate,"Riverine, Flash Floods",High,50,9,2,5,44.73,3,3,13,3,18,1
+GB-2024-10-002,2024-10-03,2024,10,Ghanche,Baltistan,True,125.39,858.55,Severe,Flash Floods,High,142,19,1,19,132.91,15,3,53,28,40,0
+GB-2024-10-001,2024-10-08,2024,10,Kharmang,Baltistan,True,40.45,2.6,Minor,Flash Floods,Medium-High,13,1,0,1,9.32,0,0,12,11,3,0
+GB-2024-10-000,2024-10-24,2024,10,Ghizer,Gilgit,False,45.18,531.25,Minor,Flash Floods,High,10,1,0,3,7.86,1,0,5,3,5,0
+GB-2024-11-003,2024-11-02,2024,11,Ghizer,Gilgit,False,195.88,2509.06,Severe,Flash Floods,High,163,31,0,19,161.18,23,8,50,14,44,1
+GB-2024-11-001,2024-11-12,2024,11,Ghizer,Gilgit,False,127.7,2263.75,Severe,Flash Floods,High,182,18,6,25,142.9,12,1,50,8,55,1
+GB-2024-11-002,2024-11-13,2024,11,Kharmang,Baltistan,True,24.75,885.55,Minor,Flash Floods,Medium-High,11,2,0,1,9.52,1,0,10,8,3,0
+GB-2024-11-000,2024-11-27,2024,11,Diamer,Gilgit,False,90.97,676.26,Moderate,"Riverine, Flash Floods",High,60,7,0,4,47.09,5,0,9,8,18,1
+GB-2024-12-000,2024-12-04,2024,12,Diamer,Gilgit,False,64.17,758.54,Moderate,"Riverine, Flash Floods",High,43,7,1,5,36.46,4,0,20,5,14,2
+GB-2025-01-001,2025-01-07,2025,1,Hunza,Gilgit,False,67.07,1499.71,Moderate,"GLOF, Flash Floods",Very High,53,7,1,4,53.73,1,3,15,3,12,4
+GB-2025-01-000,2025-01-20,2025,1,Skardu,Baltistan,True,4.68,563.23,Minor,"Flash Floods, GLOF",Very High,10,1,0,2,7.67,0,0,11,2,2,0
+GB-2025-02-000,2025-02-08,2025,2,Ghizer,Gilgit,False,212.16,3515.7,Severe,Flash Floods,High,145,18,0,22,96.45,9,3,46,23,47,0
+GB-2025-03-001,2025-03-07,2025,3,Hunza,Gilgit,False,134.39,1119.37,Severe,"GLOF, Flash Floods",Very High,154,17,3,13,144.53,16,3,51,17,54,2
+GB-2025-03-000,2025-03-09,2025,3,Skardu,Baltistan,True,53.01,1031.83,Moderate,"Flash Floods, GLOF",Very High,65,4,2,3,41.69,1,1,12,5,21,1
+GB-2025-03-002,2025-03-26,2025,3,Hunza,Gilgit,False,101.12,2355.88,Severe,"GLOF, Flash Floods",Very High,137,26,3,17,151.14,14,10,54,22,39,0
+GB-2025-05-002,2025-05-15,2025,5,Hunza,Gilgit,False,44.64,1196.43,Minor,"GLOF, Flash Floods",Very High,8,2,0,1,9.89,0,0,9,5,4,0
+GB-2025-05-001,2025-05-22,2025,5,Ghanche,Baltistan,True,15.35,224.0,Minor,Flash Floods,High,12,4,0,0,15.9,4,0,13,7,4,0
+GB-2025-05-000,2025-05-25,2025,5,Diamer,Gilgit,False,52.17,2134.43,Moderate,"Riverine, Flash Floods",High,52,4,0,3,40.09,2,0,11,8,20,1
+GB-2025-06-007,2025-06-02,2025,6,Ghanche,Baltistan,True,15.7,1051.89,Minor,Flash Floods,High,8,3,0,2,9.74,2,1,5,4,2,0
+GB-2025-06-000,2025-06-03,2025,6,Diamer,Gilgit,False,59.35,900.77,Moderate,"Riverine, Flash Floods",High,51,14,1,8,52.87,10,2,7,4,12,1
+GB-2025-06-006,2025-06-07,2025,6,Hunza,Gilgit,False,100.25,1068.45,Severe,"GLOF, Flash Floods",Very High,158,27,3,14,172.99,14,3,36,27,53,1
+GB-2025-06-002,2025-06-11,2025,6,Hunza,Gilgit,False,127.33,350.7,Severe,"GLOF, Flash Floods",Very High,170,18,5,21,166.73,10,4,39,23,55,4
+GB-2025-06-001,2025-06-14,2025,6,Ghanche,Baltistan,True,47.86,840.56,Minor,Flash Floods,High,7,2,0,2,8.67,3,3,14,9,6,0
+GB-2025-06-003,2025-06-25,2025,6,Skardu,Baltistan,True,68.45,1734.2,Moderate,"Flash Floods, GLOF",Very High,44,9,3,4,63.18,14,3,12,2,10,0
+GB-2025-06-004,2025-06-26,2025,6,Skardu,Baltistan,True,207.51,2556.78,Severe,"Flash Floods, GLOF",Very High,146,23,6,12,152.53,18,5,47,15,48,3
+GB-2025-06-005,2025-06-27,2025,6,Ghanche,Baltistan,True,81.51,1523.95,Moderate,Flash Floods,High,53,7,2,5,58.36,4,1,7,3,13,4
+GB-2025-07-007,2025-07-04,2025,7,Ghanche,Baltistan,True,62.66,833.69,Moderate,Flash Floods,High,57,7,1,8,48.41,9,2,4,2,20,3
+GB-2025-07-002,2025-07-07,2025,7,Shigar,Baltistan,True,33.94,524.45,Minor,"Flash Floods, GLOF",High,13,0,0,2,8.03,0,0,5,5,7,0
+GB-2025-07-004,2025-07-10,2025,7,Hunza,Gilgit,False,57.42,460.24,Moderate,"GLOF, Flash Floods",Very High,42,12,2,4,52.39,6,2,16,2,13,0
+GB-2025-07-001,2025-07-20,2025,7,Skardu,Baltistan,True,72.86,848.11,Moderate,"Flash Floods, GLOF",Very High,50,9,2,4,55.17,4,3,8,5,13,2
+GB-2025-07-005,2025-07-21,2025,7,Hunza,Gilgit,False,233.09,2492.61,Severe,"GLOF, Flash Floods",Very High,151,37,7,20,198.14,16,9,50,20,50,1
+GB-2025-07-000,2025-07-21,2025,7,Ghizer,Gilgit,False,13.63,147.18,Minor,Flash Floods,High,10,3,0,2,10.06,2,0,4,3,2,0
+GB-2025-07-006,2025-07-26,2025,7,Astore,Gilgit,False,18.2,393.12,Minor,Flash Floods,Medium,9,4,0,1,14.05,3,2,6,5,2,0
+GB-2025-07-003,2025-07-26,2025,7,Skardu,Baltistan,True,89.32,1945.84,Moderate,"Flash Floods, GLOF",Very High,58,2,1,3,35.39,1,0,16,5,20,1
+GB-2025-08-006,2025-08-07,2025,8,Diamer,Gilgit,False,82.2,1180.22,Moderate,"Riverine, Flash Floods",High,59,6,1,7,50.69,2,4,16,2,14,1
+GB-2025-08-007,2025-08-08,2025,8,Skardu,Baltistan,True,78.84,1304.46,Moderate,"Flash Floods, GLOF",Very High,45,11,1,4,41.08,8,4,11,8,12,3
+GB-2025-08-001,2025-08-08,2025,8,Shigar,Baltistan,True,46.2,776.78,Minor,"Flash Floods, GLOF",High,14,0,0,2,8.27,0,0,14,6,4,0
+GB-2025-08-004,2025-08-08,2025,8,Skardu,Baltistan,True,40.45,1698.16,Minor,"Flash Floods, GLOF",Very High,16,1,0,1,11.82,1,0,5,6,5,0
+GB-2025-08-003,2025-08-13,2025,8,Diamer,Gilgit,False,8.31,554.71,Minor,"Riverine, Flash Floods",High,11,2,0,2,8.81,1,0,12,7,7,0
+GB-2025-08-008,2025-08-16,2025,8,Kharmang,Baltistan,True,108.19,2038.26,Severe,Flash Floods,Medium-High,150,27,3,10,167.4,21,7,54,17,41,1
+GB-2025-08-002,2025-08-16,2025,8,Skardu,Baltistan,True,173.6,1420.73,Severe,"Flash Floods, GLOF",Very High,162,28,4,7,182.2,17,8,48,27,44,1
+GB-2025-08-000,2025-08-28,2025,8,Skardu,Baltistan,True,26.13,1164.5,Minor,"Flash Floods, GLOF",Very High,9,3,0,1,8.73,1,0,8,7,7,0
+GB-2025-08-005,2025-08-29,2025,8,Astore,Gilgit,False,17.48,617.64,Minor,Flash Floods,Medium,15,3,0,2,15.36,6,0,12,6,5,0
+GB-2025-09-003,2025-09-08,2025,9,Hunza,Gilgit,False,84.25,1952.7,Moderate,"GLOF, Flash Floods",Very High,57,8,1,4,41.38,2,3,12,5,15,3
+GB-2025-09-001,2025-09-09,2025,9,Hunza,Gilgit,False,105.46,2322.56,Severe,"GLOF, Flash Floods",Very High,154,23,2,15,138.54,9,2,56,22,50,2
+GB-2025-09-005,2025-09-09,2025,9,Ghizer,Gilgit,False,48.06,1090.92,Minor,Flash Floods,High,15,3,0,3,15.58,1,0,17,3,5,0
+GB-2025-09-002,2025-09-19,2025,9,Hunza,Gilgit,False,32.1,716.43,Minor,"GLOF, Flash Floods",Very High,12,4,0,2,16.65,5,1,12,4,7,0
+GB-2025-09-004,2025-09-26,2025,9,Kharmang,Baltistan,True,23.48,766.22,Minor,Flash Floods,Medium-High,11,4,0,2,16.67,1,2,8,6,1,0
+GB-2025-09-000,2025-09-27,2025,9,Shigar,Baltistan,True,29.67,1418.21,Minor,"Flash Floods, GLOF",High,7,1,0,4,6.18,0,1,9,8,2,0
+GB-2025-10-000,2025-10-06,2025,10,Ghanche,Baltistan,True,33.08,1143.83,Minor,Flash Floods,High,9,5,0,0,14.45,2,1,8,5,3,0
+GB-2025-11-000,2025-11-21,2025,11,Shigar,Baltistan,True,92.75,1283.26,Moderate,"Flash Floods, GLOF",High,50,12,4,5,70.57,4,2,11,4,17,2
+GB-2025-12-000,2025-12-06,2025,12,Shigar,Baltistan,True,130.91,1245.24,Severe,"Flash Floods, GLOF",High,164,22,7,16,142.85,10,3,52,26,45,1
+GB-2025-12-001,2025-12-13,2025,12,Skardu,Baltistan,True,65.82,1143.43,Moderate,"Flash Floods, GLOF",Very High,42,8,2,3,49.94,4,0,13,7,6,0
+GB-2026-01-003,2026-01-04,2026,1,Skardu,Baltistan,True,66.38,1190.97,Moderate,"Flash Floods, GLOF",Very High,48,10,2,5,54.84,8,2,12,4,13,2
+GB-2026-01-002,2026-01-05,2026,1,Ghizer,Gilgit,False,37.76,800.09,Minor,Flash Floods,High,6,2,0,4,8.11,0,0,9,8,3,0
+GB-2026-01-001,2026-01-06,2026,1,Hunza,Gilgit,False,59.25,694.41,Moderate,"GLOF, Flash Floods",Very High,46,8,1,2,35.84,7,1,10,5,10,1
+GB-2026-01-000,2026-01-25,2026,1,Ghanche,Baltistan,True,14.31,802.51,Minor,Flash Floods,High,9,3,0,4,11.29,2,1,12,4,1,0
+GB-2026-02-001,2026-02-07,2026,2,Diamer,Gilgit,False,125.32,1118.66,Severe,"Riverine, Flash Floods",High,131,22,2,16,146.65,11,7,41,26,45,2
+GB-2026-02-000,2026-02-12,2026,2,Ghizer,Gilgit,False,35.92,560.6,Minor,Flash Floods,High,7,1,0,1,6.49,0,0,7,7,1,0
+GB-2026-04-000,2026-04-06,2026,4,Ghizer,Gilgit,False,43.59,923.72,Minor,Flash Floods,High,9,2,0,1,9.68,1,0,9,7,2,0
+GB-2026-05-000,2026-05-16,2026,5,Ghanche,Baltistan,True,47.17,497.2,Minor,Flash Floods,High,10,2,0,2,11.13,2,0,12,3,6,0
+GB-2026-06-000,2026-06-05,2026,6,Ghanche,Baltistan,True,85.37,2272.91,Moderate,Flash Floods,High,60,5,1,4,39.21,2,3,10,7,9,3
+GB-2026-06-001,2026-06-17,2026,6,Diamer,Gilgit,False,57.16,1756.66,Moderate,"Riverine, Flash Floods",High,51,7,2,8,50.57,5,0,12,6,19,3
+GB-2026-06-003,2026-06-21,2026,6,Skardu,Baltistan,True,210.93,2892.73,Severe,"Flash Floods, GLOF",Very High,149,21,8,15,130.9,8,7,62,23,42,2
+GB-2026-06-005,2026-06-23,2026,6,Kharmang,Baltistan,True,14.37,669.18,Minor,Flash Floods,Medium-High,15,1,0,1,10.61,0,1,5,2,2,0
+GB-2026-06-002,2026-06-23,2026,6,Skardu,Baltistan,True,225.22,2436.96,Severe,"Flash Floods, GLOF",Very High,140,27,3,15,130.58,19,3,58,21,50,2
+GB-2026-06-004,2026-06-27,2026,6,Kharmang,Baltistan,True,27.67,1300.21,Minor,Flash Floods,Medium-High,11,3,0,1,9.64,5,1,7,4,8,0
+GB-2026-07-001,2026-07-06,2026,7,Ghanche,Baltistan,True,66.53,468.6,Moderate,Flash Floods,High,47,7,0,6,43.53,7,0,4,5,20,4
+GB-2026-07-000,2026-07-07,2026,7,Astore,Gilgit,False,14.24,204.0,Minor,Flash Floods,Medium,6,0,0,4,4.93,0,0,13,3,0,0
+GB-2026-07-003,2026-07-07,2026,7,Kharmang,Baltistan,True,25.69,875.29,Minor,Flash Floods,Medium-High,12,2,0,1,12.19,0,0,15,4,4,0
+GB-2026-07-004,2026-07-10,2026,7,Diamer,Gilgit,False,243.47,4298.33,Severe,"Riverine, Flash Floods",High,169,26,3,17,134.89,12,4,64,18,63,1
+GB-2026-07-005,2026-07-21,2026,7,Hunza,Gilgit,False,166.56,1718.01,Severe,"GLOF, Flash Floods",Very High,142,14,3,15,107.65,5,3,49,21,44,2
+GB-2026-07-002,2026-07-25,2026,7,Shigar,Baltistan,True,170.72,2370.42,Severe,"Flash Floods, GLOF",High,148,20,1,14,140.51,15,4,61,29,50,2
+GB-2026-07-006,2026-07-27,2026,7,Astore,Gilgit,False,59.66,926.89,Moderate,Flash Floods,Medium,51,8,0,7,37.49,2,0,8,6,21,3
+GB-2026-08-003,2026-08-01,2026,8,Ghizer,Gilgit,False,35.71,848.6,Minor,Flash Floods,High,9,1,0,2,7.85,1,0,6,7,1,0
+GB-2026-08-001,2026-08-08,2026,8,Diamer,Gilgit,False,147.03,3421.89,Severe,"Riverine, Flash Floods",High,140,35,2,18,159.49,18,9,48,17,48,0
+GB-2026-08-004,2026-08-09,2026,8,Skardu,Baltistan,True,55.25,1161.83,Moderate,"Flash Floods, GLOF",Very High,54,7,1,5,56.3,5,0,11,6,16,2
+GB-2026-08-002,2026-08-15,2026,8,Kharmang,Baltistan,True,30.18,782.52,Minor,Flash Floods,Medium-High,9,3,0,2,9.85,1,0,6,6,0,0
+GB-2026-08-000,2026-08-17,2026,8,Hunza,Gilgit,False,47.87,320.95,Minor,"GLOF, Flash Floods",Very High,8,0,0,2,4.22,0,0,10,3,3,0
+GB-2026-09-003,2026-09-04,2026,9,Kharmang,Baltistan,True,21.86,585.01,Minor,Flash Floods,Medium-High,12,1,0,1,8.97,2,0,5,7,3,0
+GB-2026-09-008,2026-09-05,2026,9,Kharmang,Baltistan,True,15.13,510.95,Minor,Flash Floods,Medium-High,12,0,0,3,6.69,0,0,12,6,5,0
+GB-2026-09-000,2026-09-06,2026,9,Diamer,Gilgit,False,186.01,1815.0,Severe,"Riverine, Flash Floods",High,137,28,5,14,147.61,20,6,48,26,38,2
+GB-2026-09-001,2026-09-07,2026,9,Ghanche,Baltistan,True,47.71,1211.35,Minor,Flash Floods,High,9,4,0,4,12.8,3,0,8,6,1,0
+GB-2026-09-007,2026-09-20,2026,9,Ghizer,Gilgit,False,172.74,1544.5,Severe,Flash Floods,High,169,24,3,18,148.58,17,6,53,22,51,2
+GB-2026-09-002,2026-09-25,2026,9,Ghanche,Baltistan,True,87.98,1387.62,Moderate,Flash Floods,High,51,11,2,1,57.7,4,2,5,5,19,3
+GB-2026-09-004,2026-09-26,2026,9,Shigar,Baltistan,True,51.29,1665.38,Moderate,"Flash Floods, GLOF",High,47,14,0,2,58.66,9,7,12,4,11,2
+GB-2026-09-005,2026-09-26,2026,9,Skardu,Baltistan,True,149.14,1381.38,Severe,"Flash Floods, GLOF",Very High,142,18,1,18,107.33,3,1,51,18,44,1
+GB-2026-09-006,2026-09-28,2026,9,Skardu,Baltistan,True,47.22,1624.4,Minor,"Flash Floods, GLOF",Very High,7,0,0,2,3.48,0,0,14,5,0,0
+GB-2026-10-001,2026-10-02,2026,10,Skardu,Baltistan,True,210.34,3632.24,Severe,"Flash Floods, GLOF",Very High,148,24,1,20,113.77,9,0,49,31,47,2
+GB-2026-10-000,2026-10-20,2026,10,Hunza,Gilgit,False,97.26,521.45,Moderate,"GLOF, Flash Floods",Very High,51,11,1,6,47.19,5,4,13,6,19,0
+GB-2026-10-002,2026-10-21,2026,10,Shigar,Baltistan,True,41.92,853.78,Minor,"Flash Floods, GLOF",High,6,5,0,2,15.92,7,2,8,0,0,0
+GB-2026-10-003,2026-10-24,2026,10,Hunza,Gilgit,False,347.71,4175.86,Severe,"GLOF, Flash Floods",Very High,163,24,6,12,154.62,10,2,54,14,57,0
+GB-2026-11-001,2026-11-06,2026,11,Diamer,Gilgit,False,35.21,1394.37,Minor,"Riverine, Flash Floods",High,12,0,0,3,7.01,0,0,12,3,4,0
+GB-2026-11-000,2026-11-27,2026,11,Skardu,Baltistan,True,41.17,688.34,Minor,"Flash Floods, GLOF",Very High,10,1,0,2,7.06,0,0,9,3,2,0
+GB-2026-12-001,2026-12-06,2026,12,Skardu,Baltistan,True,29.46,910.23,Minor,"Flash Floods, GLOF",Very High,7,1,0,3,7.61,0,0,7,5,2,0
+GB-2026-12-000,2026-12-13,2026,12,Ghanche,Baltistan,True,148.94,509.55,Severe,Flash Floods,High,148,29,3,18,175.37,18,8,48,24,40,5
