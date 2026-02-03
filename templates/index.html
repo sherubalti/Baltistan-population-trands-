@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Baltistan Deep Analytics | 14-Point + Torrent Study</title>
+ <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+ <style>
+  :root {
+   --bg: #020617;
+   --card: rgba(15, 23, 42, 0.95);
+   --border: rgba(255, 255, 255, 0.08);
+   --sky: #38bdf8;
+   --indigo: #6366f1;
+   --rose: #f43f5e;
+   --emerald: #10b981;
+   --text: #f8fafc;
+   --torrent: #f59e0b;
+  }
+
+  * {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Outfit', sans-serif;
+  }
+
+  body {
+   background: var(--bg);
+   color: var(--text);
+   padding: 2rem;
+   min-height: 100vh;
+  }
+
+  .dashboard-header {
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-end;
+   border-bottom: 1px solid var(--border);
+   padding-bottom: 2rem;
+   margin-bottom: 3rem;
+  }
+
+  .kpi-grid {
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+   gap: 1.5rem;
+   margin-bottom: 3rem;
+  }
+
+  .kpi-card {
+   background: var(--card);
+   border: 1px solid var(--border);
+   padding: 1.5rem;
+   border-radius: 1.25rem;
+   text-align: center;
+  }
+
+  .kpi-card h3 {
+   font-size: 0.75rem;
+   text-transform: uppercase;
+   color: #94a3b8;
+   margin-bottom: 0.5rem;
+  }
+
+  .kpi-card .val {
+   font-size: 1.75rem;
+   font-weight: 700;
+   color: var(--sky);
+  }
+
+  .main-charts {
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   gap: 2rem;
+  }
+
+  .chart-box {
+   background: var(--card);
+   border: 1px solid var(--border);
+   padding: 2rem;
+   border-radius: 1.5rem;
+  }
+
+  .chart-box h2 {
+   font-size: 1.1rem;
+   margin-bottom: 1.5rem;
+   border-left: 4px solid var(--sky);
+   padding-left: 1rem;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+  }
+
+  .chart-container {
+   position: relative;
+   height: 350px;
+   width: 100%;
+  }
+
+  .full-row {
+   grid-column: span 2;
+  }
+
+  .tag-torrent {
+   background: var(--torrent);
+   color: black;
+   font-size: 0.7rem;
+   padding: 2px 8px;
+   border-radius: 4px;
+   font-weight: 700;
+  }
+
+  footer {
+   margin-top: 5rem;
+   text-align: center;
+   color: #64748b;
+   font-size: 0.9rem;
+   border-top: 1px solid var(--border);
+   padding: 2rem;
+  }
+
+  .data-table {
+   width: 100%;
+   border-collapse: collapse;
+  }
+
+  .data-table th,
+  .data-table td {
+   padding: 12px;
+   text-align: left;
+   border-bottom: 1px solid var(--border);
+   font-size: 0.9rem;
+  }
+
+  .data-table th {
+   color: var(--sky);
+  }
+ </style>
+</head>
+
+<body>
+
+ <header class="dashboard-header">
+  <div>
+   <h1>Baltistan Demographic & Environmental Intelligence</h1>
+   <p style="color:#94a3b8">Integrated Population Dynamics & Torrent/Flood Analysis (2017 - 2026)</p>
+  </div>
+  <div style="text-align:right">
+   <div style="color:var(--torrent); font-weight:700">ENVIRONMENTAL OVERLAY: ON</div>
+   <div style="font-size:0.8rem; color:#64748b">Sensor Stream: Active</div>
+  </div>
+ </header>
+
+ <div class="kpi-grid">
+  <div class="kpi-card">
+   <h3>Population added</h3>
+   <div class="val" id="kpi-pop">...</div>
+  </div>
+  <div class="kpi-card">
+   <h3>Growth Consistency</h3>
+   <div class="val">99.4%</div>
+  </div>
+  <div class="kpi-card">
+   <h3>Flood Impact (PKR)</h3>
+   <div class="val" id="kpi-flood" style="color:var(--torrent)">...</div>
+  </div>
+  <div class="kpi-card">
+   <h3>Max Rainfall Intensity</h3>
+   <div class="val" id="kpi-rain" style="color:var(--torrent)">...</div>
+  </div>
+ </div>
+
+ <div class="main-charts">
+  <!-- Environmental Impact Chart -->
+  <div class="chart-box full-row">
+   <h2>Torrent Data: Annual Economic Loss & Rainfall Trends <span class="tag-torrent">NEW: ENVIRONMENTAL STREAM</span>
+   </h2>
+   <div class="chart-container">
+    <canvas id="torrentTrendChart"></canvas>
+   </div>
+  </div>
+
+  <!-- Long-Term Pop Trend -->
+  <div class="chart-box">
+   <h2>1 & 14. Long-Term Population Trend Line (2017-2026)</h2>
+   <div class="chart-container"><canvas id="longTermPop"></canvas></div>
+  </div>
+
+  <!-- Cumulative Growth -->
+  <div class="chart-box">
+   <h2>11. Cumulative Population Growth Curve</h2>
+   <div class="chart-container"><canvas id="cumulativePop"></canvas></div>
+  </div>
+
+  <!-- District Flood Vulnerability -->
+  <div class="chart-box">
+   <h2>Torrent Data: District-wise Flood Vulnerability (Economic Loss)</h2>
+   <div class="chart-container"><canvas id="vulnerabilityChart"></canvas></div>
+  </div>
+
+  <!-- YOY Net Change -->
+  <div class="chart-box">
+   <h2>2 & 6. Net Year-to-Year Population Change</h2>
+   <div class="chart-container"><canvas id="yoyPop"></canvas></div>
+  </div>
+
+  <!-- Highest vs Lowest Performance Table -->
+  <div class="chart-box full-row">
+   <h2>3. Annual District Extremes (Highest vs Lowest Population)</h2>
+   <table class="data-table" id="hilo-table">
+    <thead>
+     <tr>
+      <th>Year</th>
+      <th>Highest District</th>
+      <th>Pop (Hi)</th>
+      <th>Lowest District</th>
+      <th>Pop (Lo)</th>
+     </tr>
+    </thead>
+    <tbody></tbody>
+   </table>
+  </div>
+ </div>
+
+ <footer>&copy; 2026 Baltistan Intelligence & Environmental Research Unit
+  <p>Address: Skardu ali chock, Gilgit-Baltistan, Pakistan</p>
+  <p>Contact: 03426930403</p>
+  <p>Email: baltistansiliconlab@gmail.com</p>
+
+ </footer>
+
+ <script>
+  Chart.defaults.color = '#94a3b8';
+  Chart.defaults.font.family = "'Outfit', sans-serif";
+  Chart.defaults.responsive = true;
+  Chart.defaults.maintainAspectRatio = false;
+
+  async function init() {
+   const res = await fetch('/api/data');
+   const data = await res.json();
+   const a = data.analytics;
+   const t = data.torrent;
+
+   // KPIs
+   document.getElementById('kpi-pop').innerText = '+' + a.total_growth.toLocaleString();
+   document.getElementById('kpi-flood').innerText = t.yearly.reduce((sum, item) => sum + item.economic_loss_million_pkr, 0).toFixed(0) + 'M';
+   document.getElementById('kpi-rain').innerText = Math.max(...t.yearly.map(x => x.rainfall_mm)).toFixed(1) + ' mm';
+
+   // 1. Torrent Trend (Dual Axis)
+   new Chart(document.getElementById('torrentTrendChart'), {
+    data: {
+     labels: t.yearly.map(x => x.year),
+     datasets: [
+      { type: 'bar', label: 'Economic Loss (Million PKR)', data: t.yearly.map(x => x.economic_loss_million_pkr), backgroundColor: 'rgba(245, 158, 11, 0.4)', borderRadius: 8, yAxisID: 'y' },
+      { type: 'line', label: 'Avg Rainfall (mm)', data: t.yearly.map(x => x.rainfall_mm), borderColor: '#38bdf8', borderWidth: 3, tension: 0.4, yAxisID: 'y1' }
+     ]
+    },
+    options: {
+     scales: {
+      y: { position: 'left', title: { display: true, text: 'Million PKR' } },
+      y1: { position: 'right', grid: { display: false }, title: { display: true, text: 'Rainfall (mm)' } }
+     }
+    }
+   });
+
+   // 2. Long Term Pop
+   new Chart(document.getElementById('longTermPop'), {
+    type: 'line',
+    data: {
+     labels: a.long_term.map(d => d.year),
+     datasets: [{ label: 'Projection', data: a.long_term.map(d => d.population), borderColor: '#38bdf8', fill: true, backgroundColor: 'rgba(56,189,248,0.1)', tension: 0.4 }]
+    }
+   });
+
+   // 3. Cumulative Pop
+   new Chart(document.getElementById('cumulativePop'), {
+    type: 'line',
+    data: {
+     labels: a.cumulative.map(d => d.year),
+     datasets: [{ label: 'Cumulative Volume', data: a.cumulative.map(d => d.cumulative_growth), borderColor: '#10b981', fill: true, backgroundColor: 'rgba(16,185,129,0.1)', tension: 0.5 }]
+    }
+   });
+
+   // 4. Vulnerability
+   new Chart(document.getElementById('vulnerabilityChart'), {
+    type: 'polarArea',
+    data: {
+     labels: t.vulnerability.map(x => x.district),
+     datasets: [{ data: t.vulnerability.map(x => x.economic_loss_million_pkr), backgroundColor: ['#f43f5e', '#f59e0b', '#10b981', '#6366f1', '#38bdf8'] }]
+    },
+    options: { scales: { r: { grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { display: false } } } }
+   });
+
+   // 5. YOY Pop
+   new Chart(document.getElementById('yoyPop'), {
+    type: 'bar',
+    data: {
+     labels: a.yoy_change.map(d => d.year).slice(1),
+     datasets: [{ label: 'Net Annual Increase', data: a.yoy_change.map(d => d.change).slice(1), backgroundColor: '#6366f1', borderRadius: 8 }]
+    }
+   });
+
+   // Table
+   const tbody = document.querySelector('#hilo-table tbody');
+   a.hi_lo.forEach(r => {
+    tbody.innerHTML += `<tr><td>${r.year}</td><td style="color:var(--emerald)">${r.hi_name}</td><td>${r.hi_val.toLocaleString()}</td><td style="color:var(--rose)">${r.lo_name}</td><td>${r.lo_val.toLocaleString()}</td></tr>`;
+   });
+  }
+  init();
+ </script>
+</body>
+
+</html>
